@@ -27,7 +27,3 @@ for i in numbers:
         n.append(str(i))
 print("9. Negative numbers =",", ". join(n))
 print("10. Positive numbrs =",", ".join(p))
-
-
-
-

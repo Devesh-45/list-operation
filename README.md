@@ -1,0 +1,2 @@
+# Its my program about list operations
+My program is about finding the maximum number, minimum number, sum of the number, averages of the number, Second maximum number, positive numeber, negative number, even and odd numbers.
